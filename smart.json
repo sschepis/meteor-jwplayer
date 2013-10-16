@@ -1,8 +1,8 @@
 {
-  "name": "datatables",
-  "description": "DataTables with bindings for Twitter Bootstrap",
-  "homepage": "https://github.com/TimHeckel/meteor-datatables",
-  "author": "Tim Heckel  (http://timheckel.com)",
-  "version": "0.1.3",
-  "git": "https://github.com/TimHeckel/meteor-datatables.git"
+  "name": "meteor-jwplayer",
+  "description": "Meteor wrapper for JWPlayer free edition",
+  "homepage": "https://github.com/sschepis/meteor-jwplayer",
+  "author": "Sebastian Schepis",
+  "version": "0.1",
+  "git": "https://github.com/sschepis/meteor-jwplayer"
 }
