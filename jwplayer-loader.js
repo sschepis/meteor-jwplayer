@@ -16,7 +16,7 @@ var head = document.getElementsByTagName('head')[0];
 var script = document.createElement('script');
 script.type = 'text/javascript';
 script.src = '//api.longtailvideo.com/library/U4WWQDLeEeOytRIxOUCPzg.js';
-script.onload = videojsLoadCallback;
-script.onerror = videojsErrorCallback;
+script.onload = jwplayerLoadCallback;
+script.onerror = jwplayerErrorCallback;
 
 head.appendChild(script);
