@@ -4,9 +4,7 @@ Package.describe({
 
 Package.on_use(function (api) {
   api.add_files([
-    'lib/jwplayer.flash.swf',
-	'lib/jwplayer.html5.js',
-    'lib/jwplayer.js'
+    '//api.longtailvideo.com/library/U4WWQDLeEeOytRIxOUCPzg.js'
   ], 'client'
   );
 });
