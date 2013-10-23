@@ -15,7 +15,7 @@ var head = document.getElementsByTagName('head')[0];
 //Generate a script tag
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = '//api.longtailvideo.com/library/U4WWQDLeEeOytRIxOUCPzg.js';
+script.src = '//jwpsrv.com/library/U4WWQDLeEeOytRIxOUCPzg.js';
 script.onload = jwplayerLoadCallback;
 script.onerror = jwplayerErrorCallback;
 
